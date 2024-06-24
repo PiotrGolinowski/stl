@@ -4,6 +4,8 @@
 #include <algorithm>
 
 
+
+
 /*
 Napisz funkcję removeVowels(), która przyjmie std::vector<std::string> oraz usunie wszystkie samogłoski z tych wyrażeń.
 
