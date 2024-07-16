@@ -1,7 +1,7 @@
 #include <forward_list>
 #include <iostream>
 #include <string>
-
+#include <algorithm>
 #include "sort.hpp"
 
 bool compare_char(unsigned char x, unsigned char y)
