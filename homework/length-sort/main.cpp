@@ -1,7 +1,6 @@
 #include <forward_list>
 #include <iostream>
 #include <string>
-#include <algorithm>
 #include "sort.hpp"
 
 template <typename Container>
